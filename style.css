@@ -213,6 +213,7 @@ body {
     height: 100vh;
     background: url(images/me.png) no-repeat;
     background-size:contain;
+    background-position: center;
   }
   #holder{
     color: black;
