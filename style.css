@@ -212,7 +212,7 @@ body {
   .aboutme {
     height: 100vh;
     background: url(images/me.png) no-repeat;
-    background-size:cover;
+    background-size:contain;
   }
   #holder{
     color: black;
